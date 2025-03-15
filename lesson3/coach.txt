@@ -1,0 +1,10 @@
+Robert,CI001,1 Jan 2016,31 Dec 2021,240,0122001121,Ipoh,SCC01,Tiger Sport Centre,SI001,Swimming,2
+Evelyn,CI002,1 Jan 2016,31 Dec 2021,120,0162211301,Sri Petaling,SCC02,Lion Sport Centre,SI004,Archery,1
+John,CI003,1 Jun 2017,31 Mei 2022,300,0193000900,Sungai Petani,SCC01,Tiger Sport Centre,SI002,Badminton,3
+Patricia,CI004,1 Jan 2017,31 Dec 2022,400,0168201849,Tualang,SCC02,Lion Sport Centre,SI005,Gymnatics,4
+Jennifer,CI005,1 Jun 2018,31 Mei 2023,490,0179230181,Pulai,SCC02,Lion Sport Centre,SI009,Tennis,4
+Michael,CI006,1 Jun 2018,31 Mei 2023,200,0121294713,Damansara,SCC01,Tiger Sport Centre,SI003,Football,2
+Joseph,CI007,1 Jan 2018,31 Dec 2023,130,01190103010,Sepang,SCC01,Tiger Sport Centre,SI006,Volleyball,1
+Donald,CI008,1 Jun 2019,31 Mei 2024,190,0191384711,Kajang,SCC01,Tiger Sport Centre,SI007,Basketball,1
+Charles,CI009,1 Jan 2019,31 Dec 2024,260,0174928210,Kulai,SCC01,Tiger Sport Centre,SI008,Cricket,2
+Nancy,CI010,1 Jan 2019,31 Dec 2024,390,01122331001,Kuantan,SCC02,Lion Sport Centre,SI010,Table Tennis,3
